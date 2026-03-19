@@ -18,3 +18,7 @@ Thumbs.db
 .classpath
 .settings/
 memo.md
+
+# claude
+.claude/
+.mcp.json
